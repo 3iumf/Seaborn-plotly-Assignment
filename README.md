@@ -1,2 +1,0 @@
-# Seaborn-plotly-Assignment
-Data Analysis for a retail company. The company has collected product sales information but currently relies on raw tables. I use Python, Pandas, Seaborn, and Plotly to explore the data, create meaningful visualizations, and provide business insights.
